@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Vivek Mani Tripathy @iamvmt
-- 👀 I’m interested in coding , web development
-- 🌱 I’m currently learning C , C++ , HTML , CSS , Python
-- 💞️ I’m looking to collaborate on projects in C++ , Python
-- 📫 How to reach me : Email : vmtprimary@gmail.com 
+Hi, I’m Vivek Mani Tripathy, Full-stack Web Developer and Software Engineer
+Find me here: https://vmt-portfolio.onrender.com/
+How to reach me : Email : vmtprimary@gmail.com 
 
 <!---
 iamvmt/iamvmt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
