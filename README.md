@@ -1,5 +1,5 @@
-Hi, I’m Vivek Mani Tripathy, Full-stack Web Developer and Software Engineer
-Find me here: https://vmt-portfolio.onrender.com/
+Hi, I’m Vivek Mani Tripathy, Full-stack Web Developer and Software Engineer. 
+Find me here: https://vmt-portfolio.onrender.com/ .
 How to reach me : Email : vmtprimary@gmail.com 
 
 <!---
